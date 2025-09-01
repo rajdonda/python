@@ -10,9 +10,12 @@ D = True
 print(D)
 e = None
 print(e)
+f =complex(a,c)
+print(f)
 print("type of a :" ,type(a))
 print("type of b :" ,type(b))
 print("type of c :" ,type(c))
 print("type of d :" ,type(d))
 print("type of D :" ,type(D))
 print("type of e :" ,type(e))
+print("type of f :" ,type(f))
