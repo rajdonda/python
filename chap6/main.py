@@ -1,2 +1,3 @@
-a = input("Enter your name :")
-print("your name is :",a)
+a = input("Enter first number :")
+b = input("Enter second number :")
+print(a + b)
