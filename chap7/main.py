@@ -17,4 +17,8 @@ print(st)
 print("name is :" ,name)
 print("email is :" + gmail)
 print(gmail[4])
-print(indexstr[1])
+print(indexstr[2])
+
+print("for loop in python")
+for character in name:
+    print(character)
